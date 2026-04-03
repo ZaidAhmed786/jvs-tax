@@ -15,8 +15,8 @@ font-size:14px;
 padding:8px 0;
 }
 
-.top-social i{
-margin-left:15px;
+.top-social{
+padding-top: 18px;
 cursor:pointer;
 }
 
@@ -521,4 +521,23 @@ cursor:pointer;
 
 color:#1fd1c1;
 
+}
+
+.footer-links a{
+
+margin-bottom:10px;
+font-size:14px;
+cursor:pointer;
+color: white;
+text-decoration: none;
+
+}
+
+.footer-links a:hover{
+
+color:#1fd1c1;
+
+}
+.text-primary-1{
+   color:#1fd1c1; 
 }
